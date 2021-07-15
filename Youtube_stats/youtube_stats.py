@@ -1,12 +1,9 @@
 import pandas as pd
 
-api_key = "AIzaSyDOVaoNBtG1FCpeJmmsFw775RsU7LX_tMM"
+api_key = "AIzaSyDOVaoNBtG1FCpeJmmsFw775RsU7LX_tMM" #api key has been expired so it won't work again
 from apiclient.discovery import build
 youtube = build('youtube', 'v3', developerKey=api_key)
-req = youtube.search().list(part='snippet',
-                            q='avengers',
-                            type='video',
-                            maxResults=50)
+
 
 def get_channel_videos(channel_id):
     

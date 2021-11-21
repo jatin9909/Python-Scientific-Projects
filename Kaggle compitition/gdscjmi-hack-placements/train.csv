@@ -1,0 +1,173 @@
+sl_no,gender,10th_marks,12th_marks,10th_board,12th_board,12th_stream,undergrad_type,undergrad_marks,specialisation,mba_marks,work_experience,preplacement_test_marks,status
+202,Male,54.2,63.0,Central,Others,Science,Commerce,58.0,Marketing&HR,58.44,No,79.0,Not Placed
+32,Female,67.0,53.0,Central,Central,Science,Engineering,65.0,Marketing&HR,58.32,No,64.0,Not Placed
+194,Female,60.0,63.0,Central,Central,Arts,Others,56.0,Marketing&HR,56.63,Yes,80.0,Placed
+153,Female,75.4,60.5,Others,Central,Science,Engineering,84.0,Marketing&Finance,65.25,No,98.0,Placed
+43,Male,49.0,39.0,Others,Central,Science,Others,65.0,Marketing&Finance,51.21,No,63.0,Not Placed
+78,Male,64.0,80.0,Others,Others,Science,Engineering,65.0,Marketing&Finance,57.65,Yes,69.0,Placed
+158,Male,66.5,62.5,Central,Central,Commerce,Commerce,60.9,Marketing&Finance,55.03,No,93.4,Placed
+56,Male,60.4,66.6,Central,Others,Science,Commerce,65.0,Marketing&HR,52.71,No,71.0,Placed
+121,Male,58.0,40.0,Others,Others,Science,Commerce,59.0,Marketing&HR,58.81,No,73.0,Not Placed
+15,Male,62.0,47.0,Central,Central,Commerce,Commerce,50.0,Marketing&HR,54.96,No,76.0,Not Placed
+140,Male,77.0,70.0,Central,Central,Commerce,Commerce,59.0,Marketing&Finance,54.43,Yes,58.0,Placed
+114,Female,73.96,79.0,Others,Others,Commerce,Commerce,67.0,Marketing&Finance,63.08,No,72.15,Placed
+5,Male,85.8,73.6,Central,Central,Commerce,Commerce,73.3,Marketing&Finance,55.5,No,96.8,Placed
+69,Female,69.7,47.0,Central,Central,Commerce,Engineering,72.7,Marketing&HR,59.24,No,79.0,Not Placed
+10,Male,58.0,70.0,Central,Central,Commerce,Commerce,61.0,Marketing&Finance,52.21,No,54.0,Not Placed
+86,Female,83.84,89.83,Others,Others,Commerce,Commerce,77.2,Marketing&Finance,76.18,Yes,78.74,Placed
+203,Male,70.0,63.0,Central,Central,Science,Engineering,66.0,Marketing&HR,60.11,No,61.28,Placed
+182,Male,62.0,60.33,Central,Others,Science,Engineering,64.21,Marketing&HR,60.02,No,63.0,Not Placed
+191,Female,64.0,70.2,Others,Central,Commerce,Commerce,61.0,Marketing&Finance,62.5,No,50.0,Not Placed
+73,Male,84.86,67.0,Others,Others,Science,Commerce,78.0,Marketing&Finance,68.53,No,95.5,Placed
+118,Male,77.0,75.0,Others,Others,Science,Engineering,73.0,Marketing&Finance,67.05,No,80.0,Placed
+44,Male,87.0,87.0,Others,Others,Commerce,Commerce,68.0,Marketing&HR,62.9,No,95.0,Placed
+46,Female,76.0,64.0,Central,Central,Science,Engineering,72.0,Marketing&HR,66.53,No,58.0,Not Placed
+164,Male,63.0,67.0,Others,Others,Science,Engineering,64.0,Marketing&Finance,66.46,No,75.0,Placed
+198,Female,83.96,53.0,Others,Others,Science,Engineering,91.0,Marketing&HR,69.71,No,59.32,Placed
+39,Female,73.0,58.0,Others,Others,Science,Commerce,66.0,Marketing&HR,56.86,No,53.7,Placed
+170,Male,59.96,42.16,Others,Others,Science,Engineering,61.26,Marketing&HR,65.48,No,54.48,Not Placed
+16,Female,65.0,75.0,Central,Central,Commerce,Commerce,69.0,Marketing&Finance,64.66,Yes,72.0,Placed
+148,Male,70.0,74.0,Central,Central,Commerce,Commerce,65.0,Marketing&Finance,62.28,No,83.0,Placed
+77,Female,66.5,70.4,Others,Central,Arts,Commerce,71.93,Marketing&Finance,64.27,No,61.0,Placed
+27,Male,71.0,79.0,Others,Others,Commerce,Commerce,66.0,Marketing&Finance,57.55,Yes,94.0,Placed
+66,Male,54.0,47.0,Others,Others,Science,Commerce,57.0,Marketing&HR,57.1,No,89.69,Not Placed
+138,Male,67.0,63.0,Others,Central,Commerce,Commerce,72.0,Marketing&HR,60.41,No,56.0,Placed
+31,Female,64.0,73.5,Central,Central,Commerce,Commerce,73.0,Marketing&HR,56.7,No,52.0,Placed
+122,Female,64.0,67.0,Central,Others,Science,Engineering,69.6,Marketing&HR,71.49,Yes,55.67,Placed
+177,Female,59.0,60.0,Central,Others,Commerce,Commerce,56.0,Marketing&HR,57.9,No,55.0,Placed
+124,Male,74.0,59.0,Others,Others,Commerce,Commerce,73.0,Marketing&HR,56.7,Yes,60.0,Placed
+129,Male,80.4,73.4,Central,Central,Science,Engineering,77.72,Marketing&HR,76.26,Yes,81.2,Placed
+38,Female,79.0,76.0,Central,Central,Science,Engineering,65.6,Marketing&HR,55.47,No,58.0,Placed
+155,Male,53.0,63.0,Central,Others,Science,Commerce,60.0,Marketing&Finance,53.2,Yes,70.0,Placed
+210,Male,62.0,72.0,Central,Central,Commerce,Commerce,65.0,Marketing&Finance,56.49,No,67.0,Placed
+2,Male,79.33,78.33,Central,Others,Science,Engineering,77.48,Marketing&Finance,66.28,Yes,86.5,Placed
+178,Female,73.0,97.0,Central,Others,Commerce,Commerce,79.0,Marketing&Finance,70.81,Yes,89.0,Placed
+49,Male,63.0,62.0,Others,Others,Commerce,Commerce,68.0,Marketing&Finance,62.46,No,64.0,Placed
+169,Female,48.0,51.0,Central,Central,Commerce,Commerce,58.0,Marketing&HR,58.79,Yes,60.0,Not Placed
+209,Female,43.0,60.0,Central,Others,Science,Commerce,65.0,Marketing&HR,62.92,No,92.66,Not Placed
+58,Male,68.0,76.0,Central,Central,Commerce,Commerce,74.0,Marketing&Finance,63.59,No,80.0,Placed
+42,Female,74.0,63.16,Others,Others,Commerce,Commerce,65.0,Marketing&HR,69.76,Yes,65.0,Not Placed
+76,Female,59.0,62.0,Central,Others,Commerce,Commerce,77.5,Marketing&HR,67.0,No,74.0,Not Placed
+173,Male,73.0,58.0,Others,Others,Commerce,Commerce,56.0,Marketing&HR,52.64,No,84.0,Placed
+192,Male,67.0,61.0,Others,Central,Science,Commerce,72.0,Marketing&Finance,61.01,No,72.0,Placed
+52,Male,54.4,61.12,Central,Central,Commerce,Commerce,56.2,Marketing&HR,62.65,No,67.0,Not Placed
+94,Male,52.0,62.0,Central,Central,Commerce,Commerce,54.0,Marketing&HR,55.41,No,72.0,Not Placed
+111,Female,69.5,70.0,Central,Central,Science,Engineering,72.0,Marketing&HR,54.8,No,57.2,Placed
+126,Female,84.0,73.0,Central,Central,Commerce,Commerce,73.0,Marketing&Finance,73.33,No,75.0,Placed
+100,Male,54.0,82.0,Central,Others,Commerce,Engineering,63.0,Marketing&Finance,59.47,No,50.0,Not Placed
+127,Female,79.0,61.0,Others,Others,Science,Engineering,75.5,Marketing&Finance,68.2,Yes,70.0,Placed
+156,Male,51.57,74.66,Others,Others,Commerce,Commerce,59.9,Marketing&HR,65.99,Yes,56.15,Not Placed
+159,Male,67.0,63.0,Others,Others,Science,Engineering,64.0,Marketing&Finance,61.87,No,60.0,Not Placed
+25,Male,76.5,97.7,Others,Others,Science,Engineering,78.86,Marketing&Finance,74.01,No,97.4,Placed
+197,Male,72.0,63.0,Others,Others,Science,Engineering,77.5,Marketing&Finance,54.48,Yes,78.0,Placed
+131,Male,62.0,65.0,Central,Others,Commerce,Commerce,60.0,Marketing&Finance,64.15,No,84.0,Not Placed
+65,Male,80.0,73.0,Others,Others,Commerce,Commerce,75.0,Marketing&Finance,58.78,No,61.0,Placed
+145,Male,52.0,50.0,Others,Others,Arts,Commerce,61.0,Marketing&Finance,58.52,No,60.0,Not Placed
+179,Male,68.0,56.0,Others,Others,Science,Engineering,68.0,Marketing&HR,68.07,No,73.0,Placed
+185,Female,56.28,62.83,Others,Others,Commerce,Commerce,59.79,Marketing&HR,57.29,No,60.0,Not Placed
+6,Male,55.0,49.8,Others,Others,Science,Engineering,67.25,Marketing&Finance,51.58,Yes,55.0,Not Placed
+189,Male,61.8,47.0,Others,Others,Commerce,Commerce,54.38,Marketing&Finance,56.13,No,57.0,Not Placed
+110,Male,52.0,63.0,Central,Others,Science,Engineering,65.0,Marketing&HR,56.09,Yes,86.0,Not Placed
+35,Male,62.0,51.0,Others,Others,Science,Others,52.0,Marketing&HR,62.77,No,68.44,Not Placed
+11,Male,58.0,61.0,Central,Central,Commerce,Commerce,60.0,Marketing&HR,60.85,Yes,62.0,Placed
+93,Female,60.23,69.0,Central,Central,Science,Commerce,66.0,Marketing&Finance,59.47,No,72.0,Placed
+166,Female,63.3,78.33,Central,Others,Commerce,Commerce,74.0,Marketing&Finance,74.56,No,80.0,Not Placed
+50,Female,50.0,37.0,Others,Others,Arts,Others,52.0,Marketing&HR,56.11,No,65.0,Not Placed
+213,Male,67.0,67.0,Others,Others,Commerce,Commerce,73.0,Marketing&Finance,69.72,Yes,59.0,Placed
+187,Female,52.0,64.0,Central,Central,Commerce,Commerce,61.0,Marketing&Finance,62.93,No,55.0,Not Placed
+201,Male,69.0,60.0,Others,Others,Commerce,Commerce,65.0,Marketing&Finance,52.81,No,87.55,Placed
+57,Male,63.0,71.4,Others,Others,Commerce,Commerce,61.4,Marketing&Finance,66.88,No,68.0,Placed
+97,Female,76.0,70.0,Central,Central,Science,Commerce,76.0,Marketing&Finance,64.44,Yes,66.0,Placed
+135,Female,77.44,92.0,Central,Others,Commerce,Commerce,72.0,Marketing&Finance,67.13,Yes,94.0,Placed
+95,Male,58.0,62.0,Central,Central,Commerce,Commerce,64.0,Marketing&Finance,54.97,No,53.88,Placed
+112,Male,51.0,54.0,Others,Others,Science,Engineering,61.0,Marketing&HR,60.64,No,60.0,Not Placed
+29,Male,76.76,76.5,Others,Others,Commerce,Commerce,67.5,Marketing&Finance,64.15,Yes,73.35,Placed
+53,Female,40.89,45.83,Others,Others,Commerce,Commerce,53.0,Marketing&HR,65.49,No,71.2,Not Placed
+60,Male,52.6,65.58,Central,Others,Science,Engineering,72.11,Marketing&Finance,56.66,No,57.6,Placed
+134,Male,73.0,64.0,Central,Others,Commerce,Commerce,77.0,Marketing&HR,60.98,Yes,65.0,Placed
+181,Male,65.0,71.5,Central,Others,Commerce,Commerce,62.8,Marketing&Finance,56.6,Yes,57.0,Placed
+113,Male,58.0,61.0,Others,Others,Commerce,Commerce,61.0,Marketing&HR,53.94,No,58.0,Placed
+63,Female,86.5,64.2,Others,Others,Science,Engineering,67.4,Marketing&Finance,59.69,No,59.0,Placed
+171,Female,63.4,67.2,Others,Others,Commerce,Commerce,60.0,Marketing&HR,69.28,No,58.06,Not Placed
+3,Male,65.0,68.0,Central,Central,Arts,Commerce,64.0,Marketing&Finance,57.8,No,75.0,Placed
+103,Female,77.0,61.0,Others,Others,Commerce,Commerce,68.0,Marketing&Finance,61.31,Yes,57.5,Placed
+190,Female,54.0,77.6,Central,Others,Commerce,Commerce,69.2,Marketing&Finance,66.94,No,95.65,Not Placed
+157,Male,84.2,69.4,Central,Central,Science,Engineering,65.0,Marketing&HR,52.72,Yes,80.0,Placed
+85,Male,70.0,63.0,Central,Others,Science,Engineering,70.0,Marketing&Finance,62.0,Yes,55.0,Placed
+51,Female,75.2,73.2,Central,Central,Science,Commerce,68.4,Marketing&HR,62.98,No,65.0,Placed
+132,Female,74.9,57.0,Others,Others,Science,Others,62.0,Marketing&Finance,60.78,Yes,80.0,Placed
+142,Male,66.0,64.0,Central,Central,Science,Commerce,60.0,Marketing&HR,61.9,No,60.0,Not Placed
+101,Female,45.0,57.0,Others,Others,Commerce,Commerce,58.0,Marketing&HR,64.95,Yes,56.39,Not Placed
+199,Female,67.0,70.0,Central,Central,Commerce,Others,65.0,Marketing&HR,71.96,No,88.0,Not Placed
+12,Male,69.6,68.4,Central,Central,Commerce,Commerce,78.3,Marketing&Finance,63.7,Yes,60.0,Placed
+212,Male,58.0,60.0,Others,Others,Science,Engineering,72.0,Marketing&Finance,53.62,No,74.0,Placed
+83,Male,63.0,67.0,Central,Central,Commerce,Commerce,74.0,Marketing&Finance,60.44,No,82.0,Not Placed
+80,Female,69.0,62.0,Central,Central,Science,Engineering,66.0,Marketing&HR,67.99,No,75.0,Not Placed
+37,Male,51.0,44.0,Central,Central,Commerce,Commerce,57.0,Marketing&Finance,51.45,No,64.0,Not Placed
+128,Female,72.0,60.0,Others,Others,Science,Commerce,69.0,Marketing&HR,58.4,No,55.5,Placed
+144,Male,77.67,64.89,Others,Others,Commerce,Commerce,70.67,Marketing&Finance,60.39,No,89.0,Placed
+147,Male,62.0,63.0,Central,Others,Science,Commerce,66.0,Marketing&HR,55.14,No,85.0,Placed
+21,Male,62.0,65.0,Others,Others,Commerce,Commerce,66.0,Marketing&HR,56.7,No,50.0,Placed
+204,Male,55.68,61.33,Others,Others,Commerce,Commerce,56.87,Marketing&HR,58.3,No,66.0,Placed
+120,Male,60.8,68.4,Central,Central,Commerce,Commerce,64.6,Marketing&Finance,64.34,Yes,82.66,Placed
+22,Female,79.0,76.0,Others,Others,Commerce,Commerce,85.0,Marketing&Finance,69.06,No,95.0,Placed
+47,Female,70.89,71.98,Others,Others,Science,Commerce,65.6,Marketing&HR,71.63,No,68.0,Not Placed
+98,Female,70.5,62.5,Central,Others,Commerce,Commerce,61.0,Marketing&Finance,69.03,No,93.91,Not Placed
+19,Female,63.0,66.0,Central,Central,Commerce,Commerce,64.0,Marketing&HR,64.08,No,68.0,Not Placed
+106,Male,59.0,64.0,Central,Others,Science,Engineering,58.0,Marketing&HR,55.3,No,85.0,Not Placed
+119,Male,76.0,80.0,Central,Central,Science,Engineering,78.0,Marketing&HR,70.48,Yes,97.0,Placed
+214,Female,74.0,66.0,Others,Others,Commerce,Commerce,58.0,Marketing&HR,60.23,No,70.0,Placed
+207,Male,41.0,42.0,Central,Central,Science,Commerce,60.0,Marketing&Finance,53.39,No,97.0,Not Placed
+14,Female,77.0,87.0,Central,Central,Commerce,Commerce,59.0,Marketing&Finance,68.63,No,68.0,Placed
+7,Female,46.0,49.2,Others,Others,Commerce,Commerce,79.0,Marketing&Finance,53.29,No,74.28,Not Placed
+139,Female,82.0,64.0,Others,Others,Science,Engineering,73.0,Marketing&Finance,71.77,Yes,96.0,Placed
+54,Male,80.0,70.0,Others,Others,Science,Engineering,72.0,Marketing&HR,71.04,No,87.0,Placed
+208,Male,83.33,78.0,Central,Others,Commerce,Commerce,61.0,Marketing&Finance,71.55,Yes,88.56,Placed
+13,Female,47.0,55.0,Central,Others,Science,Commerce,65.0,Marketing&HR,65.04,No,62.0,Not Placed
+184,Male,65.0,77.0,Central,Central,Commerce,Commerce,69.0,Marketing&HR,61.82,No,60.0,Placed
+206,Male,61.0,62.0,Others,Others,Commerce,Commerce,65.0,Marketing&Finance,56.81,No,62.0,Placed
+84,Male,84.0,79.0,Others,Others,Science,Engineering,68.0,Marketing&Finance,66.69,Yes,84.0,Placed
+89,Female,66.0,62.0,Central,Central,Commerce,Commerce,73.0,Marketing&HR,64.36,No,58.0,Placed
+67,Male,83.0,74.0,Others,Others,Science,Commerce,66.0,Marketing&HR,58.46,No,68.92,Placed
+68,Male,80.92,78.5,Others,Others,Commerce,Commerce,67.0,Marketing&Finance,60.99,No,68.71,Placed
+130,Male,76.7,89.7,Central,Others,Commerce,Commerce,66.0,Marketing&Finance,68.55,Yes,90.0,Placed
+75,Male,56.6,64.8,Central,Central,Commerce,Commerce,70.2,Marketing&Finance,67.2,No,84.27,Placed
+91,Female,85.0,90.0,Others,Others,Commerce,Commerce,82.0,Marketing&Finance,68.03,No,92.0,Placed
+96,Male,73.0,78.0,Central,Others,Commerce,Commerce,65.0,Marketing&Finance,62.16,Yes,95.46,Placed
+1,Male,67.0,91.0,Others,Others,Commerce,Engineering,58.0,Marketing&HR,58.8,No,55.0,Placed
+125,Male,67.0,71.0,Central,Central,Science,Others,64.33,Marketing&HR,61.26,Yes,64.0,Placed
+186,Female,88.0,72.0,Central,Central,Science,Others,78.0,Marketing&HR,71.43,No,82.0,Placed
+34,Female,87.0,65.0,Others,Others,Science,Commerce,81.0,Marketing&Finance,72.78,Yes,88.0,Placed
+215,Male,62.0,58.0,Central,Others,Science,Commerce,53.0,Marketing&HR,60.22,No,89.0,Not Placed
+143,Male,85.0,60.0,Central,Others,Science,Engineering,73.43,Marketing&Finance,61.29,Yes,60.0,Placed
+71,Male,82.0,61.0,Others,Others,Science,Engineering,62.0,Marketing&Finance,65.45,No,89.0,Placed
+188,Male,78.5,65.5,Central,Central,Science,Engineering,67.0,Marketing&Finance,64.86,Yes,95.0,Placed
+193,Male,65.2,61.4,Central,Central,Commerce,Commerce,64.8,Marketing&Finance,57.34,Yes,93.4,Placed
+45,Female,77.0,73.0,Others,Others,Commerce,Commerce,81.0,Marketing&Finance,69.7,Yes,89.0,Placed
+161,Male,87.0,74.0,Central,Central,Science,Engineering,65.0,Marketing&HR,72.29,Yes,75.0,Placed
+55,Female,74.0,60.0,Central,Others,Science,Commerce,69.0,Marketing&HR,65.56,No,78.0,Placed
+175,Male,73.24,50.83,Others,Others,Science,Engineering,64.27,Marketing&Finance,66.23,Yes,64.0,Placed
+172,Male,80.0,80.0,Others,Others,Commerce,Commerce,72.0,Marketing&Finance,66.04,Yes,63.79,Placed
+137,Female,47.0,59.0,Central,Central,Arts,Commerce,64.0,Marketing&Finance,61.58,No,78.0,Not Placed
+4,Male,56.0,52.0,Central,Central,Science,Engineering,52.0,Marketing&HR,59.43,No,66.0,Not Placed
+154,Male,49.0,59.0,Others,Others,Science,Engineering,65.0,Marketing&Finance,62.48,Yes,86.0,Placed
+163,Male,74.2,87.6,Central,Others,Commerce,Commerce,77.25,Marketing&Finance,66.06,Yes,75.2,Placed
+151,Male,71.0,58.66,Central,Central,Science,Engineering,58.0,Marketing&Finance,61.3,Yes,56.0,Placed
+36,Female,69.0,78.0,Central,Central,Commerce,Commerce,72.0,Marketing&HR,62.74,No,71.0,Placed
+146,Male,89.4,65.66,Others,Others,Science,Engineering,71.25,Marketing&HR,63.23,No,72.0,Placed
+117,Male,68.2,72.8,Central,Central,Commerce,Commerce,66.6,Marketing&Finance,70.85,Yes,96.0,Placed
+33,Female,61.0,81.0,Central,Central,Commerce,Commerce,66.4,Marketing&HR,62.21,No,50.89,Placed
+123,Female,66.5,66.8,Central,Central,Arts,Commerce,69.3,Marketing&Finance,71.0,Yes,80.4,Placed
+105,Male,69.0,63.0,Central,Others,Science,Commerce,65.0,Marketing&HR,58.23,Yes,55.0,Placed
+150,Male,44.0,58.0,Central,Central,Arts,Commerce,55.0,Marketing&HR,58.54,Yes,64.25,Not Placed
+9,Male,73.0,79.0,Central,Central,Commerce,Commerce,72.0,Marketing&Finance,61.29,No,91.34,Placed
+168,Male,67.9,62.0,Others,Others,Science,Engineering,67.0,Marketing&Finance,75.71,Yes,58.1,Not Placed
+180,Female,77.8,64.0,Central,Central,Science,Engineering,64.2,Marketing&HR,72.14,No,75.5,Not Placed
+205,Female,74.0,73.0,Others,Others,Commerce,Commerce,73.0,Marketing&Finance,67.69,Yes,80.0,Placed
+133,Male,67.0,68.0,Others,Others,Commerce,Commerce,64.0,Marketing&HR,53.49,Yes,74.4,Placed
+200,Male,69.0,65.0,Others,Others,Commerce,Commerce,57.0,Marketing&HR,55.8,No,73.0,Placed
+81,Female,69.0,62.0,Others,Others,Commerce,Commerce,69.0,Marketing&HR,62.35,Yes,67.0,Placed
+176,Male,63.0,62.0,Others,Others,Science,Engineering,65.0,Marketing&HR,60.69,No,87.5,Not Placed
+211,Male,80.6,82.0,Others,Others,Commerce,Commerce,77.6,Marketing&Finance,74.49,No,91.0,Placed
+195,Male,52.0,55.0,Others,Others,Commerce,Commerce,56.3,Marketing&Finance,64.74,No,59.0,Not Placed
+79,Male,84.0,90.9,Others,Others,Science,Engineering,64.5,Marketing&Finance,59.42,No,86.04,Placed
